@@ -1,0 +1,148 @@
+CRITICAL - 2024-05-14 11:31:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin_list_news.php"
+[Method: GET, Route: admin/news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\NewsAdmin.php(12): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\NewsAdmin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 12:31:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin_list_news.php"
+[Method: GET, Route: admin/news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\NewsAdmin.php(12): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\NewsAdmin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 12:31:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin_list_news.php"
+[Method: GET, Route: admin/news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\NewsAdmin.php(12): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\NewsAdmin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 12:53:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin_list_news.php"
+[Method: GET, Route: admin/news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\NewsAdmin.php(12): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\NewsAdmin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 12:54:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin_list_news.php"
+[Method: GET, Route: admin/news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\NewsAdmin.php(12): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\NewsAdmin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 13:01:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin_list_news.php"
+[Method: GET, Route: admin/news/]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\NewsAdmin.php(12): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\NewsAdmin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 13:19:25 --> ErrorException: Undefined variable $limit
+[Method: GET, Route: news]
+in APPPATH\Views\widget\recent_post.php on line 6.
+ 1 APPPATH\Views\widget\recent_post.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci-news\\app\\Views\\widget\\recent_post.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH\Controllers\news.php(22): view()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\news->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 14:23:25 --> ErrorException: Undefined variable $limit
+[Method: GET, Route: news]
+in APPPATH\Views\widget\recent_post.php on line 6.
+ 1 APPPATH\Views\widget\recent_post.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci-news\\app\\Views\\widget\\recent_post.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH\Libraries\Widget.php(7): view()
+ 6 SYSTEMPATH\View\Cell.php(289): App\Libraries\Widget->recentPost()
+ 7 SYSTEMPATH\View\Cell.php(105): CodeIgniter\View\Cell->renderSimpleClass()
+ 8 SYSTEMPATH\Common.php(1187): CodeIgniter\View\Cell->render()
+ 9 APPPATH\Views\layout\sidebar.php(1): view_cell()
+10 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci-news\\app\\Views\\layout\\sidebar.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render()
+13 APPPATH\Views\layout\post_layout.php(24): CodeIgniter\View\View->include()
+14 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\ci-news\\app\\Views\\layout\\post_layout.php')
+15 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+16 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render()
+17 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+18 APPPATH\Controllers\news.php(22): view()
+19 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\news->index()
+20 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+21 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+22 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+23 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+24 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+25 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 14:24:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin_list_news.php"
+[Method: GET, Route: admin/news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\NewsAdmin.php(12): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\NewsAdmin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')
+CRITICAL - 2024-05-14 14:56:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin_list_news.php"
+[Method: GET, Route: admin/news]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\NewsAdmin.php(12): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\NewsAdmin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\ci-news\\public\\index.php')

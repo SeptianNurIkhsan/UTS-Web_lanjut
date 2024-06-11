@@ -1,0 +1,52 @@
+ERROR - 2024-04-25 05:33:53 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(186): mysqli->real_connect()
+#1 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\Database.php(68): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\Config.php(111): CodeIgniter\Database\Database->loadForge()
+#4 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Config::forge()
+#5 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run()
+#6 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#7 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Boot.php(338): CodeIgniter\CLI\Console->run()
+#8 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#9 C:\xampp\htdocs\ci-news\spark(84): CodeIgniter\Boot::bootSpark()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\Database.php(68): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\Config.php(111): CodeIgniter\Database\Database->loadForge()
+#3 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Config::forge()
+#4 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run()
+#5 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#6 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Boot.php(338): CodeIgniter\CLI\Console->run()
+#7 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#8 C:\xampp\htdocs\ci-news\spark(84): CodeIgniter\Boot::bootSpark()
+#9 {main}
+ERROR - 2024-04-25 05:34:17 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(186): mysqli->real_connect()
+#1 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\Database.php(68): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\Config.php(111): CodeIgniter\Database\Database->loadForge()
+#4 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Config::forge()
+#5 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run()
+#6 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#7 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Boot.php(338): CodeIgniter\CLI\Console->run()
+#8 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#9 C:\xampp\htdocs\ci-news\spark(84): CodeIgniter\Boot::bootSpark()
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\Database.php(68): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Database\Config.php(111): CodeIgniter\Database\Database->loadForge()
+#3 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Config::forge()
+#4 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run()
+#5 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#6 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Boot.php(338): CodeIgniter\CLI\Console->run()
+#7 C:\xampp\htdocs\ci-news\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#8 C:\xampp\htdocs\ci-news\spark(84): CodeIgniter\Boot::bootSpark()
+#9 {main}
